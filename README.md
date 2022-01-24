@@ -1,2 +1,7 @@
 # Java
-This is about my learning Java
+
+Запуск приложения в командной строке:
+java App
+
+Для отображения кирилицы в командной строке нужно указать кодировку во время компиляции:
+javac -encoding utf8 App.java
